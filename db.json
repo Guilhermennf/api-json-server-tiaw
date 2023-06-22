@@ -23,6 +23,7 @@
             "lastname": "admin",
             "email": "admin",
             "password": "admin",
+            "type": "coordenacao",
             "id": 1
         }
     ]
