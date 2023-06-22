@@ -19,53 +19,11 @@
 
     "user": [
         {
-            "name": "gabrielle",
-            "lastname": "gabi",
-            "email": "gabi@gmail.com",
-            "password": "gabi123",
-            "id": 2
-        },
-        {
-            "name": "gabrielle",
-            "lastname": "gabi",
-            "email": "gabi@gmail.com",
-            "password": "gabi123",
-            "id": 3
-        },
-        {
-            "name": "gabrielle",
-            "lastname": "gabi",
-            "email": "gabi@gmail.com",
-            "password": "gabi123",
-            "id": 4
-        },
-        {
-            "name": "gabrielle",
-            "lastname": "gabi",
-            "email": "gabi@gmail.com",
-            "password": "gabi123",
-            "id": 5
-        },
-        {
-            "name": "gabrielle",
-            "lastname": "gabi",
-            "email": "gabi@gmail.com",
-            "password": "gabi123",
-            "id": 6
-        },
-        {
-            "name": "gabrielle",
-            "lastname": "gabi",
-            "email": "gabi@gmail.com",
-            "password": "gabi123",
-            "id": 7
-        },
-        {
-            "name": "gabrielle",
-            "lastname": "gabi",
-            "email": "gabi@gmail.com",
-            "password": "gabi123",
-            "id": 8
+            "name": "admin",
+            "lastname": "admin",
+            "email": "admin",
+            "password": "admin",
+            "id": 1
         }
     ]
 }
