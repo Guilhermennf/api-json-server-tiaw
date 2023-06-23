@@ -28,5 +28,13 @@
             "type": "coordenacao",
             "id": 1
         }
+        {
+            "name": "Felipe",
+            "lastname": "Tabelini",
+            "email": "ftp@gmail.com",
+            "password": "cabelinho",
+            "type": "professor",
+            "id": 1
+        }
     ]
 }
